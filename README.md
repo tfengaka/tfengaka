@@ -5,7 +5,6 @@
 - 🌱 I’m currently Working on Frontend Web Development with React
 - 🤔 I’m currently open for: An Intern or a new job opportunity
 - 🤓 Always learning new things
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
