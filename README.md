@@ -13,9 +13,9 @@
 <table style="width:100%">
   <tr>
     <td>
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tfengaka&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Tfengaka Github Stats">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tfengaka&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
-    <td>  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tfengaka&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/></td>
+    <td>  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfengaka&langs_count=6&layout=compact&hide_border=true&theme=tokyonight" /></td>
   </tr>
 </table>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
