@@ -15,7 +15,7 @@
     <td>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tfengaka&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
-    <td>  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfengaka&langs_count=6&layout=compact&hide_border=true&theme=tokyonight" /></td>
+    <td>  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tfengaka&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" /></td>
   </tr>
 </table>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -23,20 +23,16 @@
 ## **🛠 &nbsp;My Skills**
 
 ### **Languages:**
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,graphql" />
 
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts" />
-
-### **Technologies:**
-
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,react,redux,tailwind,mui" />
+### **Technologies + Librabries:**
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,react,redux,apollo,firebase,scss,tailwind,mui" />
 
 ### **Software & Tools:**
-
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,ps" />
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
 
-**Last Edited on: 09/07/2022**
-
+**Last Edited on: 05/12/2022**
 </div>
