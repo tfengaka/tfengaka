@@ -3,33 +3,29 @@
 ## 🙆‍♂️ About me
 
 - 🏫 I'm a Final Year Software Engineering Student at University of Transport and Comunications campus in Ho Chi Minh City.
-- 🤔 I’m currently open for: `An Intern` or a new `job opportunity`, this is [**MY RESUME**](https://drive.google.com/file/d/10px0OV_X4ThTFsRxje1BqrqgArelNcm2/view?usp=share_link).
-- 🧑‍🎓 I’m currently learning: `Software Engineering` and especially I love using `React` library to build the beautiful websites.
+- 🧑‍🎓 I’m currently learning: `Software Engineering` and especially I love using `ReactJS` and `ExpressJS` library to build the web applications.
+- 🤔 I’m currently open for a `Fresher` `Frontend ReactJS` or `Backend NodeJS` job opportunity .
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## **🛠 &nbsp;My Skills**
 
-### **Web Developments:**
+#### **Languages:**
 
-- **Backend & Databases:**
+<img src="https://skillicons.dev/icons?i=ts,js,solidity,graphql,html,css,scss" /><br/>
 
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb" /><br/>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql" />
+#### **Tech Stack:**
 
-- **Frontend :**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,nextjs,react,tauri,redux,apollo,firebase,tailwind,styledcomponents,mui" /><br/>
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,graphql" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,redux,apollo,scss,tailwind,mui" />
+#### **Tools :**
 
-### **Others Tools:**
-
-  <img src="https://skillicons.dev/icons?i=git,idea,vscode,figma,firebase" />
+<img src="https://skillicons.dev/icons?i=vite,vercel,ipfs,docker,nginx,figma,vscode" /><br/>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-**Last Edited on: 25/01/2023**
+**Last Edited on: 08/06/2023**
 
 </div>
