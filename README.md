@@ -4,7 +4,7 @@
 
 - 🏫 I'm a Final Year Software Engineering Student at University of Transport and Comunications campus in Ho Chi Minh City.
 - 🧑‍🎓 I’m currently learning: `Software Engineering` and especially I love using `ReactJS` and `ExpressJS` library to build the web applications.
-- 🤔 I’m currently open for a `Fresher` `Frontend ReactJS` or `Backend NodeJS` job opportunity .
+- 🤔 I’m currently open for a `Internship` or `Fresher` job opportunity for `Frontend(ReactJS)` and `Backend(NodeJS)` developer position.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -16,16 +16,16 @@
 
 #### **Tech Stack:**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,nextjs,react,tauri,redux,apollo,firebase,tailwind,styledcomponents,mui" /><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,mongodb,mysql,tailwind,mui" /><br/>
 
 #### **Tools :**
 
-<img src="https://skillicons.dev/icons?i=vite,vercel,ipfs,docker,nginx,figma,vscode" /><br/>
+<img src="https://skillicons.dev/icons?i=vite,vercel,firebase,figma,vscode" /><br/>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-**Last Edited on: 08/06/2023**
+**Last Edited on: 06/07/2023**
 
 </div>
