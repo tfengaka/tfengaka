@@ -2,9 +2,8 @@
 
 ## 🙆‍♂️ About me
 
-- 🏫 I'm a Final Year Software Engineering Student at University of Transport and Comunications campus in Ho Chi Minh City.
-- 🧑‍🎓 I’m currently learning: `Software Engineering` and especially I love using `ReactJS` and `ExpressJS` library to build the web applications.
-- 🤔 I’m currently open for a `Internship` or `Fresher` job opportunity for `Frontend(ReactJS)` and `Backend(NodeJS)` developer position.
+- 🤔 I’m currently an `Fresher Backend(NodeJS) Developer` at Nexlab Technology.
+- 🧑‍🎓 I'm a Fresh Graduation Software Engineering Student at the University of Transport and Communications campus in Ho Chi Minh City.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -26,6 +25,6 @@
 
 <div align="center">
 
-**Last Edited on: 06/07/2023**
+**Last Edited on: 01/02/2024**
 
 </div>
