@@ -9,7 +9,7 @@
 **WALA ICT** — *Frontend Software Engineer*  
 <sub><em>2024 - 2025</em></sub>
 
-**Nexlab Technology** — *Backend Developer*  
+**Nexlab Technology** — *Backend Internship/Full-stack Software Engineer (Promoted Sep 2023)*  
 <sub><em>2023 - 2024</em></sub>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -26,16 +26,15 @@
 ### **🛠 &nbsp;Tech Stack**
 
 #### **Languages:**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" /><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,graphql" /><br/>
 
 #### **Frameworks & Database:**
-<img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs,elysia,bun" />
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,firebase" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,vue,nodejs,bun,postgresql,mongodb" />
 
 #### **Cloud:**
-<img src="https://skillicons.dev/icons?i=docker,aws,gcp,terraform" />
+<img src="https://skillicons.dev/icons?i=docker,aws,gcp,firebase" />
 
 #### **Other:**
-<img src="https://skillicons.dev/icons?i=graphql,prisma,tailwindcss,mui,scss,vite,linux" />
+<img src="https://skillicons.dev/icons?i=prisma,tailwindcss,mui,scss,vite,linux" />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
